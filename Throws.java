@@ -15,7 +15,7 @@ class Throws extends ConsoleProgram {
     if (rate <= 0 || rate > 100) {
       throw new IllegalArgumentException("Illegal rate: " + rate);
     }
-    System.out.println("Rate set to: ");
+    System.out.println("Rate set to: " + rate);
   }
 
 }

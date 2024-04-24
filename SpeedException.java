@@ -15,6 +15,5 @@ class SpeedException extends ConsoleProgram {
 
     // Output speed
     System.out.println("The speed is " + speed);
-  }
-  
+  }  
 }

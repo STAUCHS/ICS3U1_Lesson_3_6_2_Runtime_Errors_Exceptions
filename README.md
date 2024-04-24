@@ -77,7 +77,7 @@ class SpeedException extends ConsoleProgram {
 }
 ```
 
-We can also utilize the `error` variable to get details on the error.
+We can also utilize the `e` variable to get details on the error.
 
 ```java
 try {
